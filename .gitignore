@@ -1,3 +1,5 @@
+##Modulos y dependencias que utilice
 node_modules
 
+##Variables de entornos
 .env
