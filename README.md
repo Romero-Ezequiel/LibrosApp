@@ -16,4 +16,4 @@ _Ejemplo práctico de JavaScript Full-Stack. Es un ejemplo que voy a utilizar Ja
 
 
 ### Autor ✒️
-* **Alumno: _Ezequiel Romero_** 
+* ** _Ezequiel Romero_** 
