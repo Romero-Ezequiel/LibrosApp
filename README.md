@@ -14,6 +14,5 @@ _Ejemplo práctico de JavaScript Full-Stack. Es un ejemplo que voy a utilizar Ja
 * [Webpack]()- 
 * [FontAwesome]()- 
 
-
- 
- 
+### Autor ✒️
+* **Alumno: _Ezequiel Romero_** 
