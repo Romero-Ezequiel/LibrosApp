@@ -15,7 +15,5 @@ _Ejemplo práctico de JavaScript Full-Stack. Es un ejemplo que voy a utilizar Ja
 * [FontAwesome]()- 
 
 
-### Autor ✒️
- _Ezequiel Romero_
  
  
