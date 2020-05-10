@@ -9,7 +9,7 @@ _Ejemplo práctico de JavaScript Full-Stack. Es un ejemplo que voy a utilizar Ja
 * [Express](https://expressjs.com/es/) - Es un framework de nodejs que nos permite crear un servidor de manera muy sencilla.
 * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - Es el servicio global de base de datos en la nube para aplicaciones modernas.
 * [Promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Usar_promesas) - 
-* [Bootstrap](https://getbootstrap.com/) - 
+* [Bootstrap](https://getbootstrap.com/) - Bootstrap, es un framework originalmente creado por Twitter, que permite crear interfaces web con CSS y JavaScript, cuya particularidad es la de adaptar la interfaz del sitio web al tamaño del dispositivo en que se visualice.
 * [Webpack](https://webpack.js.org/) - 
 * [FontAwesome](https://fontawesome.com/) - 
 
