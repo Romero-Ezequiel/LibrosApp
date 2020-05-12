@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "cross-env NODE_ENV=En-Desarrollo nodemon backend/index.js",
-    "start": "cross-env NODE_ENV=En-Produccion node backend/index.js"
+    "dev": "cross-env NODE_ENV=En-Desarrollo nodemon backend/index.js --ignore frontend",
+    "start": "cross-env NODE_ENV=En-Produccion node backend/index.js",
+    "build": "cross-env NODE_ENV=En-Produccion webpack",
+    "server:dev": "webpack-dev-server"
+
   },
   "keywords": [],
   "author": "Ezequiel Romero",
