@@ -3,6 +3,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 const devMode = process.env.NODE_ENV !== 'En-Produccion';
+console.log(devMode);
 
 module.exports = {
 
@@ -11,7 +12,7 @@ module.exports = {
         path: path.join(__dirname, 'backend/public'),
         filename: 'js/bundle.js'
     }, 
-    mode: 'desarrollo',
+    mode: 'development',
 
     module: {
         rules: [
