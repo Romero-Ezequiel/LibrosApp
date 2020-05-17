@@ -14,4 +14,4 @@ _Utilice JavaScript tanto del lado del Frontend como del Backend para crear una 
 * [Webpack](https://webpack.js.org/) - 
 
 #### Autor ✒️
-* **Desarrollado: _Por Ezequiel Romero_** 
+* **Desarrollado:**  _Por Ezequiel Romero_
