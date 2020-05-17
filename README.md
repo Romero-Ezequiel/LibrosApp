@@ -1,6 +1,7 @@
 ## LibrosApp
 
-_## Ejemplo práctico de JavaScript Full-Stack:_ Utilice JavaScript tanto del lado del Frontend como del Backend para crear una aplicación que será de una sola pagina. Está aplicación nos permite agregar libros, con su autor, con su titulo y guardarlo en una base de datos
+#### Ejemplo práctico de JavaScript Full-Stack: 
+_Utilice JavaScript tanto del lado del Frontend como del Backend para crear una aplicación que será de una sola pagina. Está aplicación nos permite agregar libros, con su autor, con su titulo y guardarlo en una base de datos_
 
 ### Construido con 🛠️
 
