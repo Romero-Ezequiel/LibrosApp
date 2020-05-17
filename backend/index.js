@@ -20,6 +20,8 @@ const morgan = require('morgan');
 const multer = require('multer');
 //Con este modulo voy a indicar la direccion actual del proyecto
 const path = require('path');
+//el modulo cors permite que dos servidores se comuniquen
+const cors = require('cors');
 
 //Inicializaciones
 const app = express();
@@ -49,6 +51,7 @@ app.use(multer({storage}).single('image'));
 //Esto es para enviar datos atra vez de un formulario y poder interpretarlo
 app.use(express.urlencoded({extended:false}));
 app.use(express.json());
+app.use(cors());
 
 //Rutas
 app.use('/api/books', require('./routes/books'));
