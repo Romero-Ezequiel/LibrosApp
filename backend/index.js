@@ -1,9 +1,11 @@
-//Aca voy arrancar la aplicación, es decir voy a iniciar el codigo del servidor
-//Con esto ya puedo leer archivos .env, con esto estoy especificando si luego 
+//Aca voy arrancar la aplicación, es decir voy a configurar el servidor
+
+//Realizo la configuracion de las variables de entornos. 
+//Con esto ya puedo leer archivos .env, especificando si luego 
 //al desplegar la aplicacion el modulo dotenv no sera requerido y solamente 
-//estamos requiriendo los modulos que estamos necesitando en produccion. Pero los 
-//servicion como heroku o otros servicios de la nube nos permiter guardar nuestras
-//variables de entorno desde una interfaz
+//estamos requiriendo los modulos que estamos necesitando en produccion.
+// Pero los servicios como heroku o otros servicios de la nube nos 
+//permiter guardar nuestras variables de entorno desde una interfaz
 if (process.env.NODE_ENV == 'En-Desarrollo'){
     /**Para especificar que voy a utilizar variables de entornos
      * utilizo el modulo dotenv para poder leer archivos .env**/
